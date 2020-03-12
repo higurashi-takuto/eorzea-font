@@ -1,7 +1,7 @@
-Norvrandt font
+Eorzea font
 ====
 
-Norvrandt font for FF14.
+Eorzea font for FF14.
 
 ## Description
 エオルゼア文字のフォントです。
