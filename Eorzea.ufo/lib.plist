@@ -4,10 +4,15 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>,</string>
+		<string>O</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<real>15.0</real>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>4CCF3E11-34F0-4D6E-A638-D119D8A2B44F</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
